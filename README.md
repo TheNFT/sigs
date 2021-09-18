@@ -1,4 +1,4 @@
-# sigs
+# Sigs
 
 10000 Programmatically Created Signatures.
 https://opensea.io/collection/sigs
